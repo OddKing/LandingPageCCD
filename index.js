@@ -9,3 +9,4 @@ const objSubcriptor={
 
 let editando=false;
 
+const formulario=document.querySelector("#formulario");
